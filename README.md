@@ -1,12 +1,12 @@
 Hi there, I'm Priya! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer dedicated to building intuitive and engaging web applications. I love working with modern web technologies and continuously exploring new tools and frameworks.
+Welcome to my GitHub profile! I'm a passionate developer dedicated to building intuitive and engaging web applications. I love working with modern web technologies and continuously exploring new tools and frameworks.Skilled in HTML, CSS, JavaScript, React.js and Redux with expertise in UI frameworks like Chakra UI.
 
 🚀 About Me
 
 🔭 Currently working on Primacart, an e-commerce platform.
 
-🌱 Learning and exploring React.js, Node.js, and MongoDB.
+🌱 Learning and exploring React.js, Node.js, Redux and Chakra UI.
 
 💬 Ask me about ...HTML|CSS|JavaScript
 
