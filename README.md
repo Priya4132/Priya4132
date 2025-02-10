@@ -8,6 +8,8 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to building i
 
 🌱 Learning and exploring React.js, Node.js, and MongoDB.
 
+💬 Ask me about ...HTML|CSS|JavaScript
+
 💡 Interested in web development, UI/UX design, and open-source projects.
 
 🎯 Goal: To contribute to impactful open-source projects and improve my full-stack development skills.
@@ -21,6 +23,13 @@ Backend: Node.js
 Database: MongoDB, MySQL
 
 Version Control: Git & GitHub
+
+                                                        Tech Stacks:
+![techstack](https://github.com/user-attachments/assets/15e70a11-c1bd-4dca-a84d-6cce192d10c7)
+
+
+
+
 
 
 
