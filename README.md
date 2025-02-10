@@ -22,7 +22,7 @@ Database: MongoDB, MySQL
 
 Version Control: Git & GitHub
 
-Other Tools: Figma, Postman
+
 
 📊 GitHub Stats 
 
@@ -30,11 +30,11 @@ Other Tools: Figma, Postman
 
 📫 Let's Connect!
 
-💼 LinkedIn
+💼 LinkedIn : https://www.linkedin.com/in/priya-mishra-261a282a5/
 
 🌐 Portfolio
 
-✉️ Email: priya4132@example.com
+✉️ Email: priya.aakashmishra@gmail.com
 
 🏠 GitHub Profile
 
