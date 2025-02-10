@@ -1,16 +1,41 @@
-## Hi there 👋
+Hi there, I'm Priya! 👋
 
-<!--
-**Priya4132/Priya4132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer dedicated to building intuitive and engaging web applications. I love working with modern web technologies and continuously exploring new tools and frameworks.
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working on Primacart, an e-commerce platform.
+
+🌱 Learning and exploring React.js, Node.js, and MongoDB.
+
+💡 Interested in web development, UI/UX design, and open-source projects.
+
+🎯 Goal: To contribute to impactful open-source projects and improve my full-stack development skills.
+
+💻 Technologies & Tools
+
+Frontend: HTML, CSS, JavaScript, Bootstrap, React.js
+
+Backend: Node.js
+
+Database: MongoDB, MySQL
+
+Version Control: Git & GitHub
+
+Other Tools: Figma, Postman
+
+📊 GitHub Stats 
+
+
+
+📫 Let's Connect!
+
+💼 LinkedIn
+
+🌐 Portfolio
+
+✉️ Email: priya4132@example.com
+
+🏠 GitHub Profile
+
+Thanks for stopping by! Happy coding! 🚀
